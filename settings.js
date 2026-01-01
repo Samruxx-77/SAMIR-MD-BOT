@@ -1,9 +1,9 @@
 const settings = {
   packname: 'Samir Star MD',
   author: 'Samir STAR MD',
-  botName: "NAGIR STAR MD",
+  botName: "SAM STAR MD",
   botOwner: 'Samir', // Your name
-  ownerNumber: '916002213823', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '91XXXXXXXX', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
