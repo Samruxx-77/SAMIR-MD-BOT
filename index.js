@@ -577,7 +577,7 @@ https://chat.whatsapp.com/CEp0p2P2WmQEUD4ljCrjYv`,
                 console.log(chalk.green(`║  ✅ CONNECTION SUCCESSFUL! ✅     ║`));
                 console.log(chalk.cyan(`╠════════════════════════════════════╣`));
                 console.log(chalk.magenta(`║ 👤 Owner: SAMIR MD              ║`));
-                console.log(chalk.magenta(`║ 📱 Number: ${6002213823}               ║`));
+                console.log(chalk.magenta(`║ 📱 Number: ${Enter Your No}               ║`));
                 console.log(chalk.magenta(`║ 💎 Version: ${settings.version || '3.0.0'}                    ║`));
                 console.log(chalk.magenta(`║ ⏰ Time: ${new Date().toLocaleString()}  ║`));
                 console.log(chalk.magenta(`║ 🔥 Status: ON FIRE!                ║`));
